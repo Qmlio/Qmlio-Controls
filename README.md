@@ -1,8 +1,6 @@
 # Qmlio Controls
 This is one of the Qmlio Plugins. Its main purpose is to create clean and mordern UI with Material design  in Qt Quick.
 
-[![Qmlio Controls UI](/assets/images/shiprock.jpg "Qmlio Controls UI")](https://qmlio.000webhostapp.com/images/android-screens.png)
-
 ## Documentation
 Follow the [documentation](https://qmlio.000webhostapp.com) on how to intergrate and use in your Qt projects.
 
